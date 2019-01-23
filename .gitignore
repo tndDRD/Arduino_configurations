@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#Stm32 cores libraries and system
+cores/
+libraries/
+system/
